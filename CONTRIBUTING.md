@@ -5,7 +5,7 @@ Thank you for your time to contribute for this repository. Read through the foll
 - To clone this repository to your local machine, run
 
 ```bash
-git clone https://github.com/wubeshetA/regex_hackathon_g3
+git clone https://github.com/ karanidenis/html_css_challenge_g7
 ```
 - Create a new branch in your local machine preferebly with the name **YourFirstName_stage**.
 
